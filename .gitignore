@@ -1,0 +1,44 @@
+node_modules/
+.env
+dist/
+playwright-report/
+test-results/
+.DS_Store
+
+.env
+.env.*
+!.env.example
+
+node_modules/
+test-results/
+playwright-report/
+
+node_modules/
+.env
+test-results/
+playwright-report/
+playwright/.cache/
+
+# Dependencies
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Build files
+dist/
+build/
+
+# Playwright
+playwright-report/
+test-results/
+playwright/.cache/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
